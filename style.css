@@ -76,3 +76,7 @@ img {
 .content {
   display: none;
 }
+
+.content.live {
+  display: block;
+}
