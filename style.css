@@ -52,7 +52,7 @@ img {
   border-top-right-radius: 0.5rem;
 }
 
-.button:hover {
+.button:hover:not(.live) {
   background: #d82148;
   color: #fff;
 }
@@ -79,4 +79,8 @@ img {
 
 .content.live {
   display: block;
+}
+
+.button.live {
+  background: #b9fff8;
 }
