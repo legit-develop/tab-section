@@ -14,8 +14,20 @@
   - Functionality of the tabs
 
 ### Tech Stack Usage
-|HTML||CSS|Javascript|
-|:---:|:---:|:---:|
+| HTML |CSS|Javascript|
+| :---: | :---: | :---: |
+|60 %|25 %|15 %|
+
+### Document Reset Styles
+```css
+body {
+  marign: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+}
+
+```
 
 ### Contact
 - [GitHub](https://github.com/legit-develop)
