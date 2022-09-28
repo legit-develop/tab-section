@@ -13,6 +13,10 @@
 - JavaScript
   - Functionality of the tabs
 
+### Tech Stack Usage
+|HTML||CSS|Javascript|
+|:---:|:---:|:---:|
+
 ### Contact
 - [GitHub](https://github.com/legit-develop)
 - [Twitter](https://twitter.com/legitDeveloper)
